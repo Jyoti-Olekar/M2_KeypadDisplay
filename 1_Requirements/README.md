@@ -8,5 +8,5 @@
 5. 10 ohm Resistor
 
 ### Tools:
-SimulIde
-CodeBlocks
+1. SimulIde
+2. CodeBlocks
